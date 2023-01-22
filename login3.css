@@ -1,0 +1,95 @@
+body{
+    background: url(./images/hacking.jpg)no-repeat fixed;
+    background-size: cover;
+}
+.box{
+    width: 33%;
+    margin-top: 100px;
+    background-color:whitesmoke;
+    border-radius: 6px;
+    
+}
+#row{
+    width: 95%;
+    margin-left: 14px;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+.row input{
+    padding: 10px;
+}
+.butn{
+    border-radius: 3px;
+}
+.atag a{
+    float: right;
+    text-decoration: none;
+    color: black;
+    font-size: smaller;
+}
+.atag a:hover{
+    text-decoration:underline;                                                                                                                                                                                                             
+    color: blue;
+    font-size: smaller;
+    
+}
+.login{
+    border-style: none;
+    border-radius: 3px;
+    background: none;
+    border-color: rgb(187, 184, 184);
+    border-style: solid;
+}
+.login a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: smaller;
+}
+.login:hover{
+    background: none;
+    border-color:  rgb(187, 184, 184);
+    
+}
+#end{
+    text-align: center;
+    font-size: small;
+}
+#end a{
+    text-decoration: none;
+    color: rgb(56, 56, 56);
+}
+#end a:hover{
+    text-decoration:underline;
+    color: blue;
+    font-size: small;
+}
+.footer{
+    margin-top: 10px;
+    text-align: center;
+    font-size: smaller;
+    
+}
+.footer p{
+    color: rgb(194, 191, 191);
+    font-weight: 600;
+    opacity: 0.9;
+}
+.footer a{
+    color: rgb(194, 191, 191);
+}
+.linked a{
+    text-decoration: none;
+}
+.linked a:hover{
+    text-decoration: underline;
+}
+
+.endlink a{
+    color: blue;
+    text-decoration: none;
+}
+.endlink a:hover{
+    color: rgb(10, 10, 155);
+    text-decoration: underline;
+}
